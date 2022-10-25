@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jhovashaus.lwc-kzt7h5yk-fork-l9okqe7p",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve Vk93c1DVQdiQpuDXNF9f --open"
+  }
+}
